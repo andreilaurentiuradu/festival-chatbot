@@ -1,0 +1,736 @@
+Décrochage L'Epis Taff a la place numéro 198.01 et le compte de réservation weezpay 2316-
+002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il sert des plats 
+comme: Tartares.
+Décrochage Stand de Marc Schneider a la place numéro 648.18 et le compte de réservation 
+weezpay 2288-003. Il sert des boissons comme: minérales. Il sert des plats comme: Gaufre.
+Décrochage Stand de Nguyen Thanh-Lam a la place numéro 792.01 et le compte de 
+réservation weezpay 2146-002. Il sert des boissons comme: minérales, bières. Il sert des 
+plats comme: Spécialités Asiatiques.
+Décrochage Wok Viet Thaï a la place numéro 045.22 et le compte de réservation weezpay 
+2072-002. Il ne sert pas de boissons. Il sert des plats comme: Spécialités Asiatiques.
+Décrochage Attitude Concept Store Sàrl a la place numéro 657.09 et le compte de 
+réservation weezpay 2111-002. Il sert des boissons comme: minérales, vins, bières, 
+cocktails. Il ne sert pas de nourriture.
+Décrochage Stand de Laurent Boschung a la place numéro 387.15 et le compte de 
+réservation weezpay 2065-002. Il ne sert pas de boissons. Il sert des plats comme: 
+Confiserie, Crêpes, Sandwich.
+Décrochage Stand Argentine a la place numéro 744.06 et le compte de réservation weezpay 
+2335-003. Il sert des boissons comme: minérales, bières. Il sert des plats comme: Spécialités 
+Amérique latine.
+Décrochage Stand de Souady Abdelali a la place numéro 648.25 et le compte de réservation 
+weezpay 2102-002. Il sert des boissons comme: minérales, bières, liquoreux, cocktails. Il ne 
+sert pas de nourriture.
+Décrochage Neuchâtel Sport Rugby Club a la place numéro 384.18 et le compte de 
+réservation weezpay 2181-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il ne sert pas de nourriture.
+Décrochage Gaberel a la place numéro 198.09 et le compte de réservation weezpay 2029-
+002. Il sert des boissons comme: minérales, vins, bières, cocktails. Il sert des plats comme: 
+Steak vigneron, Tartares.
+Décrochage Stand de FLORIDITA a la place numéro 303.01 et le compte de réservation 
+weezpay 2385-002. Il sert des boissons comme: minérales, vins, bières. Il ne sert pas de 
+nourriture.
+Décrochage Association des Vieux Scouts a la place numéro 780.06 et le compte de 
+réservation weezpay 2142-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il sert des plats comme: Croques-monsieur, planchettes neuchâteloises.
+Décrochage Stand de Bacouet Elian a la place numéro 378.01 et le compte de réservation 
+weezpay 2163-002. Il sert des boissons comme: minérales, vins, bières, liquoreux. Il sert des 
+plats comme: Burgers, Fondue au fromage, Grillades, Raclette, Steak vigneron.
+Décrochage Stand de Bianchi Giuseppe a la place numéro 387.16 et le compte de 
+réservation weezpay 2166-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il ne sert pas de nourriture.
+Décrochage Stand Bianchi Giuseppe a la place numéro 387.18 et le compte de réservation 
+weezpay 2166-003. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il sert des plats comme: Burgers, Grillades, Sandwich, Steak vigneron.
+Décrochage Stand de Tran Ha a la place numéro 744.04 et le compte de réservation 
+weezpay 2125-003. Il ne sert pas de boissons. Il sert des plats comme: Spécialités 
+Asiatiques.
+Décrochage POULET SECRET a la place numéro 726.23 et le compte de réservation weezpay 
+2275-002. Il ne sert pas de boissons. Il sert des plats comme: Burgers, POULET FRITE.
+Décrochage Stand de Jérémy Billieux a la place numéro 537.32 et le compte de réservation 
+weezpay 2350-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il sert des plats comme: Planchettes (saucisse sèche NE, tome NE, oignons, cornichons, pain 
+NE).
+Décrochage Terrasse du Cardinal a la place numéro 516.02 et le compte de réservation 
+weezpay 2218-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Milan swiss a la place numéro 648.20 et le compte de réservation weezpay 
+2243-002. Il ne sert pas de boissons. Il sert des plats comme: bonbons barbe à papa.
+Décrochage MILAN SWISS CHURROS a la place numéro 657.11 et le compte de réservation 
+weezpay 2243-003. Il ne sert pas de boissons. Il sert des plats comme: Churros.
+Décrochage Vert'libéraux neuchâtelois a la place numéro 744.22 et le compte de réservation 
+weezpay 2298-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, 
+ABSINTHE. Il ne sert pas de nourriture.
+Décrochage Stand de Bersac Gregory a la place numéro 444.01 et le compte de réservation 
+weezpay 2067-002. Il sert des boissons comme: vins, bières. Il ne sert pas de nourriture.
+Décrochage Stand de droguistes.fdv2023 a la place numéro 537.15 et le compte de 
+réservation weezpay 2459-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il ne sert pas de nourriture.
+Décrochage Stand de Neuch Cycling friends a la place numéro 384.04 et le compte de 
+réservation weezpay 2286-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il sert des plats comme: Planchette.
+Décrochage Stand de Liqueur Beirão a la place numéro 045.20 et le compte de réservation 
+weezpay 2263-002. Il sert des boissons comme: liquoreux, cocktails. Il ne sert pas de 
+nourriture.
+Décrochage Stand de Gregory Jacquot a la place numéro 537.14 et le compte de réservation 
+weezpay 2303-002. Il ne sert pas de boissons. Il sert des plats comme: Churros, hot dog.
+Décrochage Jean-Marc Gueguen a la place numéro 384.05 et le compte de réservation 
+weezpay 2177-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage Stand DELICIOUS AVENUE a la place numéro 648.23 et le compte de 
+réservation weezpay 2098-002. Il ne sert pas de boissons. Il sert des plats comme: Churros, 
+Crêpes, gaufres.
+Décrochage Stand de Kha Hai a la place numéro 276.08 et le compte de réservation weezpay 
+2044-002. Il sert des boissons comme: minérales. Il sert des plats comme: Spécialités 
+Asiatiques.
+Décrochage La Jeunesse Rurale Neuchâteloise a la place numéro 732.10 et le compte de 
+réservation weezpay 2119-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il ne sert pas de nourriture.
+Décrochage Délice Kebab a la place numéro 648.08 et le compte de réservation weezpay 
+2090-002. Il ne sert pas de boissons. Il sert des plats comme: Kebab, frites, hot dog, falafel.
+Décrochage Table Ronde N°6 a la place numéro 387.08 et le compte de réservation weezpay 
+2066-002. Il sert des boissons comme: minérales, vins, bières, liquoreux. Il sert des plats 
+comme: Pizza.
+Décrochage Rossignol des Gorges Boudry (société d'accordéonistes) a la place numéro 
+537.01 et le compte de réservation weezpay 2069-002. Il sert des boissons comme: 
+minérales, vins, bières. Il sert des plats comme: Soupe aux pois.
+Décrochage Stand de Brasserie des Mines a la place numéro 045.04 et le compte de 
+réservation weezpay 2015-002. Il sert des boissons comme: minérales, bières, cocktails. Il 
+ne sert pas de nourriture.
+Décrochage Curling Neuchâtel-Sports a la place numéro 384.24 et le compte de réservation 
+weezpay 2346-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il sert des plats comme: bretzel nature.
+Décrochage Stand de Trac Tran Ngoc Phuong a la place numéro 648.17 et le compte de 
+réservation weezpay 2094-002. Il ne sert pas de boissons. Il sert des plats comme: 
+Spécialités Asiatiques.
+Décrochage Stand de Maye Sébastien a la place numéro 384.10 et le compte de réservation 
+weezpay 2165-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats 
+comme: Grillades, Sandwich, Planchette, assiettes froides, terrines, assiettes chaudes 
+(magret de canard, foie gras, filet de boeuf, caille, desserts).
+Décrochage Stand du Club Alpin a la place numéro 198.04 et le compte de réservation 
+weezpay 2255-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats 
+comme: Soupe aux pois, Planchettes apéro.
+Décrochage Stand de Van Hecke Kris a la place numéro 792.02 et le compte de réservation 
+weezpay 2147-002. Il ne sert pas de boissons. Il sert des plats comme: Gaufres.
+Décrochage El Porronpompero a la place numéro 384.07 et le compte de réservation 
+weezpay 2053-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage JC's Gourmet Hot Dogs a la place numéro 657.14 et le compte de réservation 
+weezpay 2287-002. Il ne sert pas de boissons. Il sert des plats comme: Gourmet Hot Dogs.
+Décrochage Stand de Singh Prince Pal a la place numéro 744.34 et le compte de réservation 
+weezpay 2239-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il sert des plats comme: Spécialités Asiatiques.
+Décrochage RiderFamily a la place numéro 201.03 et le compte de réservation weezpay 
+2037-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats comme: 
+Pizza.
+Décrochage singh sukhwinder a la place numéro 045.26 et le compte de réservation 
+weezpay 2239-003. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage Service compris a la place numéro 384.13 et le compte de réservation weezpay 
+2187-002. Il sert des boissons comme: minérales, vins, bières, liquoreux. Il sert des plats 
+comme: Planchette du terroir : saucisse sèche et gruyère.
+Décrochage Canard Gourmand a la place numéro 198.05 et le compte de réservation 
+weezpay 2157-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats 
+comme: Sandwich, Sandwich de Foie gras poêlé, sauce aux truffes.
+Décrochage BARBECUEBAR a la place numéro 744.12 et le compte de réservation weezpay 
+2480-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats comme: 
+Grillades, POMME-FRITES.
+Décrochage Stand du Volley a la place numéro 384.22 et le compte de réservation weezpay 
+2182-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il sert 
+des plats comme: Plateau apéritif, hot-dog, autres petits encas.
+Décrochage Stand de La Turquoise a la place numéro 795.09 et le compte de réservation 
+weezpay 2271-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats 
+comme: Kebab, Kebab et Frites.
+Décrochage Stand Istanbul Kebab a la place numéro 387.09 et le compte de réservation 
+weezpay 2060-002. Il sert des boissons comme: minérales. Il sert des plats comme: Kebab, 
+Spécialités Orientales.
+Décrochage Stand de Yonten Tratsang a la place numéro 198.12 et le compte de réservation 
+weezpay 2250-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats 
+comme: Spécialités Asiatiques Momo tibétain.
+Décrochage Stand de Neuchâtel Xamax 1912 a la place numéro 045.01 et le compte de 
+réservation weezpay 2269-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il sert des plats comme: Ramequin au fromage.
+Décrochage Stand de Brönnimann Beat a la place numéro 384.06 et le compte de 
+réservation weezpay 2052-002. Il sert des boissons comme: minérales, vins, bières. Il sert 
+des plats comme: Brochettes, Pommes, Cheese-Weel, Burrito, Saucisse, Schüblig.
+Décrochage Boucherie Margot a la place numéro 384.09 et le compte de réservation 
+weezpay 2055-002. Il ne sert pas de boissons. Il sert des plats comme: Burgers, Grillades, 
+Frites.
+Décrochage Club des lutteurs du Vignoble a la place numéro 384.11 et le compte de 
+réservation weezpay 2453-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux. Il ne sert pas de nourriture.
+Décrochage Stand de Ngawang Chopatsang a la place numéro 537.22 et le compte de 
+réservation weezpay 2399-002. Il sert des boissons comme: minérales, vins, bières. Il sert 
+des plats comme: corn dog, Momo, chicken karaage, Tin tin fish.
+Décrochage Stand de Eleonora Van Gool a la place numéro 648.24 et le compte de 
+réservation weezpay 2320-002. Il sert des boissons comme: minérales, vins, bières. Il sert 
+des plats comme: Burgers, Crêpes, Pâtes, Pizza, Steak vigneron, Hot-dog, frites.
+Décrochage Stand de Wenger Tupan Anita a la place numéro 648.11 et le compte de 
+réservation weezpay 2170-002. Il sert des boissons comme: minérales. Il sert des plats 
+comme: Churros, Confiserie, Crêpes.
+Décrochage Stand de Au metro a la place numéro 648.07 et le compte de réservation 
+weezpay 2373-002. Il sert des boissons comme: minérales, vins. Il ne sert pas de nourriture.
+Décrochage Denibenevent Abako a la place numéro 201.04 et le compte de réservation 
+weezpay 2038-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats 
+comme: Poissons, Spécialités Africaines.
+Décrochage Stand de Christian Di Marco a la place numéro 378.03 et le compte de 
+réservation weezpay 2195-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Bui Van Duong a la place numéro 657.18 et le compte de réservation 
+weezpay 2112-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats 
+comme: Spécialités Asiatiques.
+Décrochage The Jungle Kitchen a la place numéro 744.07 et le compte de réservation 
+weezpay 2126-002. Il ne sert pas de boissons. Il sert des plats comme: Grillades, Spécialités 
+Africaines.
+Décrochage Stand de Fontaine Sébastien a la place numéro 276.04 et le compte de 
+réservation weezpay 2043-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux. Il sert des plats comme: Burgers, Sandwich.
+Décrochage Association musicale Neuchâtel St-Blaise a la place numéro 384.16 et le compte 
+de réservation weezpay 2057-002. Il sert des boissons comme: minérales, vins, bières. Il 
+sert des plats comme: Confiserie, Steak vigneron.
+Décrochage Terrasse du Bar de l'Univers a la place numéro 201.10 et le compte de 
+réservation weezpay 2194-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Sales Gosses a la place numéro 045.10 et le compte de réservation weezpay 
+2276-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il sert 
+des plats comme: planchettes apéro.
+Décrochage CABANE DU FAYLYS a la place numéro 780.17 et le compte de réservation 
+weezpay 2145-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il sert des plats comme: Burgers, Grillades, Steak vigneron, Frites.
+Décrochage Stand de Cindy Righetti a la place numéro 726.08 et le compte de réservation 
+weezpay 2236-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Zupan Sandi (Bassin) a la place numéro 045.18 et le compte de 
+réservation weezpay 2174-002. Il sert des boissons comme: minérales. Il sert des plats 
+comme: Burgers, Crêpes, Spécialités Amérique latine, Tex-Mex.
+Décrochage Stand de La Cantine du Neubourg a la place numéro 297.03 et le compte de 
+réservation weezpay 2215-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Restaurant Maharajah/Younas Butt a la place numéro 744.02 et le 
+compte de réservation weezpay 2161-003. Il sert des boissons comme: minérales, vins, 
+bières. Il sert des plats comme: Kebab, Spécialités indo-pakistanaises.
+Décrochage Stand de Selver Ogiz a la place numéro 387.10 et le compte de réservation 
+weezpay 2059-002. Il ne sert pas de boissons. Il sert des plats comme: Grillades, Saucisse 
+grillée, poulet grillé, hot-dog, frite, cevap.
+Décrochage Stand de Tamara a la place numéro 537.12 et le compte de réservation weezpay 
+2413-002. Il sert des boissons comme: minérales, bières, liquoreux. Il ne sert pas de 
+nourriture.
+Décrochage Stand des Jeunes Libéraux-Radicaux Neuchâtelois a la place numéro 384.20 et 
+le compte de réservation weezpay 2262-004. Il sert des boissons comme: minérales, vins, 
+bières, cocktails. Il ne sert pas de nourriture.
+Décrochage La Bonne Binche a la place numéro 780.10 et le compte de réservation weezpay 
+2253-003. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il ne sert 
+pas de nourriture.
+Décrochage Stand de HC UNIVERSITE NEUCHATEL a la place numéro 780.07 et le compte 
+de réservation weezpay 2143-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il sert des plats comme: Frites.
+Décrochage Gym La Coudre a la place numéro 384.02 et le compte de réservation weezpay 
+2428-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats comme: 
+Ramequins & planches-apéro.
+Décrochage Stand de Nesenshon Christian a la place numéro 537.02 et le compte de 
+réservation weezpay 2070-002. Il ne sert pas de boissons. Il sert des plats comme: Churros, 
+Crêpes.
+Décrochage Stand du Ski Extrême a la place numéro 384.28 et le compte de réservation 
+weezpay 2179-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage Stand de Wetzel Frank a la place numéro 648.22 et le compte de réservation 
+weezpay 2272-002. Il ne sert pas de boissons. Il sert des plats comme: Confiserie, Crêpes, 
+Granita barbapapa popcorn.
+Décrochage Stand de Faivre Pierre a la place numéro 347.01 et le compte de réservation 
+weezpay 2048-002. Il sert des boissons comme: minérales, vins, bières, cocktails. Il sert des 
+plats comme: Poissons, Tartares.
+Décrochage Maison du Concert a la place numéro 387.04 et le compte de réservation 
+weezpay 2058-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage Monsieur Hot-Dog a la place numéro 198.02 et le compte de réservation 
+weezpay 2156-002. Il sert des boissons comme: minérales, bières. Il sert des plats comme: 
+Burgers, hot-dog.
+Décrochage Empanadas a la place numéro 726.01 et le compte de réservation weezpay 
+2366-002. Il ne sert pas de boissons. Il sert des plats comme: Spécialités Amérique latine.
+Décrochage Bar de la place Fernando Dos Santos a la place numéro 378.05 et le compte de 
+réservation weezpay 2206-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand Association Machu Picchu a la place numéro 795.03 et le compte de 
+réservation weezpay 2152-002. Il sert des boissons comme: minérales, vins, bières, 
+cocktails. Il sert des plats comme: Spécialités Amérique latine, Tamales, Empanadas, 
+Ceviche.
+Décrochage Pizza au feu de bois a la place numéro 387.12 et le compte de réservation 
+weezpay 2061-002. Il ne sert pas de boissons. Il sert des plats comme: Pizza.
+Décrochage Stand de Mongelluzzo Giuseppe a la place numéro 648.16 et le compte de 
+réservation weezpay 2095-002. Il ne sert pas de boissons. Il sert des plats comme: Burgers, 
+Grillades, Poissons, Sandwich, Saucisses, frites, hot dog, nuggets, sandwichs chauds.
+Décrochage La Gaufre Haddock a la place numéro 384.01 et le compte de réservation 
+weezpay 2164-002. Il ne sert pas de boissons. Il sert des plats comme: Crêpes, gaufres.
+Décrochage Pineapple Oasis a la place numéro 780.04 et le compte de réservation weezpay 
+2140-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il sert 
+des plats comme: Croques-Monsieur.
+Décrochage Stand de Tran David a la place numéro 537.20 et le compte de réservation 
+weezpay 2075-002. Il ne sert pas de boissons. Il sert des plats comme: Spécialités 
+Asiatiques.
+Décrochage Ski Nautique Club de Neuchâtel a la place numéro 351.02 et le compte de 
+réservation weezpay 2180-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il sert des plats comme: Raclette.
+Décrochage Stand de Zupan Sandi (Seyon) a la place numéro 744.16 et le compte de 
+réservation weezpay 2174-003. Il sert des boissons comme: minérales. Il ne sert pas de 
+nourriture.
+Décrochage PAPRIKA a la place numéro 201.05 et le compte de réservation weezpay 2159-
+002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Zupan Robert a la place numéro 648.03 et le compte de réservation 
+weezpay 2169-002. Il sert des boissons comme: minérales, bières. Il sert des plats comme: 
+Burgers, Confiserie.
+Décrochage Stand du Saloon a la place numéro 045.02 et le compte de réservation weezpay 
+2014-003. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il ne sert 
+pas de nourriture.
+Décrochage PAPRIKA BAR a la place numéro 201.06 et le compte de réservation weezpay 
+2159-004. Il sert des boissons comme: minérales, vins, bières. Il ne sert pas de nourriture.
+Décrochage Stand de Zupan Robert a la place numéro 648.10 et le compte de réservation 
+weezpay 2169-003. Il sert des boissons comme: minérales, bières. Il sert des plats comme: 
+Burgers.
+Décrochage PAPRIKA BAR - Salle à manger a la place numéro 201.08 et le compte de 
+réservation weezpay 2159-005. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Zupan Robert a la place numéro 648.14 et le compte de réservation 
+weezpay 2169-004. Il sert des boissons comme: minérales, bières. Il sert des plats comme: 
+Burgers, Grillades.
+Décrochage Stand El Tipico a la place numéro 744.32 et le compte de réservation weezpay 
+2356-002. Il sert des boissons comme: minérales, bières, liquoreux, cocktails. Il sert des 
+plats comme: Spécialités Amérique latine.
+Décrochage FC Cortaillod a la place numéro 306.03 et le compte de réservation weezpay 
+2162-002. Il sert des boissons comme: minérales, vins, bières, cocktails. Il sert des plats 
+comme: Burgers, Pâtes, Sandwich, Steak vigneron, Lasagnes.
+Décrochage Neuchâtel Gym a la place numéro 780.11 et le compte de réservation weezpay 
+2176-002. Il sert des boissons comme: minérales, vins, bières. Il ne sert pas de nourriture.
+Décrochage FC Helvetia a la place numéro 780.03 et le compte de réservation weezpay 
+2139-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats comme: Steak 
+vigneron, Saucisse.
+Décrochage Association des anciens élèves de l'ESCN a la place numéro 732.02 et le compte 
+de réservation weezpay 2118-002. Il sert des boissons comme: minérales, vins, bières. Il ne 
+sert pas de nourriture.
+Décrochage Stand de RTN a la place numéro 387.01 et le compte de réservation weezpay 
+2475-002. Il sert des boissons comme: minérales, vins, bières, cocktails. Il sert des plats 
+comme: Grillades, Raclette, Spécialités Asiatiques, Steak vigneron.
+Décrochage Stand de Gangi Dino Loris a la place numéro 792.07 et le compte de réservation 
+weezpay 2150-002. Il sert des boissons comme: minérales, bières, liquoreux, cocktails. Il 
+sert des plats comme: Frites + sauces.
+Décrochage Choucroute a la place numéro 537.03 et le compte de réservation weezpay 
+2071-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats comme: 
+Choucroute.
+Décrochage Au coin de la Poste a la place numéro 648.02 et le compte de réservation 
+weezpay 2087-002. Il sert des boissons comme: minérales, bières. Il sert des plats comme: 
+Burgers, Poissons, Steak vigneron, gaufres et frites.
+Décrochage Stand de Ferreira Antonio a la place numéro 657.06 et le compte de réservation 
+weezpay 2242-002. Il sert des boissons comme: minérales, liquoreux. Il sert des plats 
+comme: Spécialités Portugaises.
+Décrochage Stand de Brasserie du Jura a la place numéro 792.09 et le compte de réservation 
+weezpay 2409-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Kilian Winz a la place numéro 198.06 et le compte de réservation 
+weezpay 2264-003. Il sert des boissons comme: minérales, vins, bières. Il ne sert pas de 
+nourriture.
+Décrochage Stand de Gamboni Aline a la place numéro 240.01 et le compte de réservation 
+weezpay 2087-003. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de l'association PRISME a la place numéro 726.12 et le compte de 
+réservation weezpay 2486-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Ayache Bruno a la place numéro 648.15 et le compte de réservation 
+weezpay 2252-002. Il sert des boissons comme: minérales. Il sert des plats comme: Burgers, 
+American hot dog et frites fraîches.
+Décrochage Burgerland 2 a la place numéro 726.10 et le compte de réservation weezpay 
+2252-003. Il ne sert pas de boissons. Il sert des plats comme: Burgers.
+Décrochage Santos Reyes Jeffry a la place numéro 744.05 et le compte de réservation 
+weezpay 2124-002. Il sert des boissons comme: minérales, vins, bières, cocktails. Il sert des 
+plats comme: Spécialités Amérique latine.
+Décrochage Stand de l'association PRISME a la place numéro 726.29 et le compte de 
+réservation weezpay 2486-003. Il sert des boissons comme: minérales, vins, bières. Il sert 
+des plats comme: Raclette.
+Décrochage Stand de Jeanne ganaj a la place numéro 276.12 et le compte de réservation 
+weezpay 2388-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage Stand du Lions Club NE lac et montagnes a la place numéro 045.08 et le compte 
+de réservation weezpay 2493-002. Il sert des boissons comme: minérales, vins, bières, 
+cocktails. Il sert des plats comme: Planchettes apéro (Fromages, pain, viande séchée, etc).
+Décrochage Stand de AMFCV a la place numéro 276.02 et le compte de réservation weezpay 
+2447-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il ne sert 
+pas de nourriture.
+Décrochage Mentor Kalanderi a la place numéro 378.06 et le compte de réservation 
+weezpay 2202-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Mentor Kalanderi a la place numéro 378.04 et le compte de réservation 
+weezpay 2202-003. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Mentor Kalanderi a la place numéro 201.02 et le compte de réservation 
+weezpay 2202-004. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Joël Schwab a la place numéro 648.40 et le compte de réservation 
+weezpay 2225-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Famiglia Leccese a la place numéro 780.05 et le compte de réservation weezpay 
+2141-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats comme: 
+Grillades, Poissons.
+Décrochage Stand de Mahmoud Abu-Shahin a la place numéro 157.01 et le compte de 
+réservation weezpay 2212-002. Il ne sert pas de boissons. Il sert des plats comme: Crêpes.
+Décrochage Stand Latitude Brésil a la place numéro 537.17 et le compte de réservation 
+weezpay 2259-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage Okapi Great Food and Coffee a la place numéro 780.19 et le compte de 
+réservation weezpay 2222-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Judo Club Cortaillod a la place numéro 205.03 et le compte de réservation 
+weezpay 2040-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage FSG Corcelles-Cormondrèche a la place numéro 387.14 et le compte de 
+réservation weezpay 2063-002. Il sert des boissons comme: minérales, vins, bières, 
+cocktails. Il sert des plats comme: Grillades, Steak vigneron.
+Décrochage Stand de Vasquez Richard a la place numéro 648.32 et le compte de réservation 
+weezpay 2104-002. Il sert des boissons comme: minérales, bières, liquoreux, cocktails. Il 
+sert des plats comme: Burgers.
+Décrochage Stand de lourdyhampe a la place numéro 387.13 et le compte de réservation 
+weezpay 2455-002. Il sert des boissons comme: minérales. Il sert des plats comme: Gaufres.
+Décrochage Stand de Tarantino Melissa a la place numéro 537.30 et le compte de 
+réservation weezpay 2082-002. Il sert des boissons comme: minérales, vins, bières, 
+cocktails. Il sert des plats comme: Grillades, Tortillas.
+Décrochage Stand de Michaël Oberhänsli a la place numéro 654.01 et le compte de 
+réservation weezpay 2197-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Gary John Pethoud a la place numéro 657.21 et le compte de 
+réservation weezpay 2208-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Chamorro Luz a la place numéro 648.38 et le compte de réservation 
+weezpay 2106-003. Il sert des boissons comme: minérales, vins, bières, liquoreux. Il sert des 
+plats comme: Sandwich, empanadas pan con chicharones.
+Décrochage Stand de Senol Özkaya a la place numéro 537.31 et le compte de réservation 
+weezpay 2235-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de lequaiduport.ne a la place numéro 627.04 et le compte de réservation 
+weezpay 2462-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage ASI AUDAX-FRIUL a la place numéro 732.14 et le compte de réservation 
+weezpay 2376-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage Stand de Tupani Besim a la place numéro 198.07 et le compte de réservation 
+weezpay 2027-002. Il sert des boissons comme: minérales. Il sert des plats comme: Burgers.
+Décrochage Sapori Italiani a la place numéro 780.08 et le compte de réservation weezpay 
+2248-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il sert 
+des plats comme: Risotto.
+Décrochage Stand Insieme / Perce-Neige a la place numéro 198.11 et le compte de 
+réservation weezpay 2451-003. Il sert des boissons comme: minérales, vins, bières. Il sert 
+des plats comme: Sandwich, Frites, Croque-Monsieur, Gaufres.
+Décrochage Stand ASI Audax Féminines a la place numéro 732.12 et le compte de 
+réservation weezpay 2466-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il ne sert pas de nourriture.
+Décrochage Stand du FUN a la place numéro 780.09 et le compte de réservation weezpay 
+2175-002. Il sert des boissons comme: minérales, vins, bières, cocktails. Il sert des plats 
+comme: Confiserie, Sandwich, tartelette, tartine, patisserie.
+Décrochage Hotel du Marché a la place numéro 378.08 et le compte de réservation weezpay 
+2214-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Zymberi a la place numéro 198.10 et le compte de réservation 
+weezpay 2274-002. Il ne sert pas de boissons. Il sert des plats comme: Churros, Crêpes, 
+Gaufres, Marrons chauds.
+Décrochage Stand du Brotary Club a la place numéro 780.01 et le compte de réservation 
+weezpay 2251-003. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage Stand des Neuchâtel Knights a la place numéro 384.26 et le compte de 
+réservation weezpay 2186-003. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il ne sert pas de nourriture.
+Décrochage Stand de willy bonnaval a la place numéro 045.03 et le compte de réservation 
+weezpay 2303-003. Il sert des boissons comme: minérales, vins, bières, cocktails. Il sert des 
+plats comme: Churros, Confiserie.
+Décrochage Softice Neuchâtel a la place numéro 045.05 et le compte de réservation 
+weezpay 2359-002. Il sert des boissons comme: minérales. Il sert des plats comme: Burgers, 
+Confiserie, Crêpes, Pizza, Spécialités Orientales, Glaces.
+Décrochage Stand de Khayrallah Nassim a la place numéro 537.05 et le compte de 
+réservation weezpay 2167-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux. Il ne sert pas de nourriture.
+Décrochage Stand de Catherine Reichl a la place numéro 378.10 et le compte de réservation 
+weezpay 2229-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Kaya Devrim a la place numéro 205.01 et le compte de réservation 
+weezpay 2227-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage TexMexFood a la place numéro 198.17 et le compte de réservation weezpay 
+2501-002. Il ne sert pas de boissons. Il sert des plats comme: Burgers, Spécialités Amérique 
+latine, Plats TexMex tels que burritos, fajitas, texas wrap, frites, poulet frit.
+Décrochage Stand de Isa Bal a la place numéro 351.01 et le compte de réservation weezpay 
+2237-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de willy bonnaval a la place numéro 537.21 et le compte de réservation 
+weezpay 2303-004. Il sert des boissons comme: minérales, granita sans alcool. Il sert des 
+plats comme: Churros, Crêpes.
+Décrochage Stand de Duong Khanh Hiep a la place numéro 387.11 et le compte de 
+réservation weezpay 2125-005. Il ne sert pas de boissons. Il sert des plats comme: 
+Spécialités Asiatiques.
+Décrochage Bao Boys / Ichi Ramen a la place numéro 045.12 et le compte de réservation 
+weezpay 2525-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats 
+comme: Spécialités Orientales.
+Décrochage Stand de Khayrallah Nassim a la place numéro 537.11 et le compte de 
+réservation weezpay 2167-003. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il ne sert pas de nourriture.
+Décrochage Stand de Khayrallah Nassim a la place numéro 537.13 et le compte de 
+réservation weezpay 2167-004. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux. Il ne sert pas de nourriture.
+Décrochage Stand de Khayrallah Nassim - nourriture libanaise a la place numéro 732.04 et 
+le compte de réservation weezpay 2167-006. Il ne sert pas de boissons. Il sert des plats 
+comme: Spécialités Orientales.
+Décrochage Stand de Khayrallah Nassim a la place numéro 732.06 et le compte de 
+réservation weezpay 2167-005. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il ne sert pas de nourriture.
+Décrochage Stand de Bestevents sarl a la place numéro 648.04 et le compte de réservation 
+weezpay 2393-002. Il sert des boissons comme: minérales. Il sert des plats comme: Burgers, 
+kebab, hamburger, balkans.
+Décrochage Stand de Les Verts a la place numéro 198.08 et le compte de réservation 
+weezpay 2318-003. Il sert des boissons comme: minérales, vins, bières. Il sert des plats 
+comme: Soupe à la courge, pain, fromage + autre à voir.
+Décrochage Le Sud Restaurant a la place numéro 201.07 et le compte de réservation 
+weezpay 2220-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand A l'Ouest a la place numéro 201.01 et le compte de réservation weezpay 
+2220-003. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il ne sert 
+pas de nourriture.
+Décrochage Bonnaval - churros a la place numéro 276.01 et le compte de réservation 
+weezpay 2303-005. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage MGM Café a la place numéro 306.07 et le compte de réservation weezpay 2442-
+002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il ne sert pas 
+de nourriture.
+Décrochage Dimitri Engel & La Cantine a la place numéro 744.78 et le compte de 
+réservation weezpay 2183-002. Il sert des boissons comme: minérales, vins. Il sert des plats 
+comme: Burgers.
+Décrochage Escargot Rouge Invité Swiss Wine Vaud a la place numéro 744.76 et le compte 
+de réservation weezpay 2183-006. Il sert des boissons comme: vins. Il sert des plats comme: 
+Pâté Vaudois.
+Décrochage Vins Alain Gerber & Silex a la place numéro 744.74 et le compte de réservation 
+weezpay 2183-003. Il sert des boissons comme: vins. Il sert des plats comme: Planchette du 
+terroir façon poisson.
+Décrochage Les Caves de la Béroche & EpiQure a la place numéro 744.72 et le compte de 
+réservation weezpay 2183-005. Il sert des boissons comme: vins, bières. Il ne sert pas de 
+nourriture.
+Décrochage CIANE a la place numéro 792.05 et le compte de réservation weezpay 2149-
+002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il sert des plats 
+comme: Spécialités Africaines, Grillades, poissons, bananes beignets.
+Décrochage Stand de Velez Gonzalez Yonatan a la place numéro 744.01 et le compte de 
+réservation weezpay 2131-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il sert des plats comme: Spécialités Amérique latine.
+Décrochage Buffalo Bill a la place numéro 198.19 et le compte de réservation weezpay 
+2036-002. Il sert des boissons comme: minérales, bières, liquoreux, cocktails. Il ne sert pas 
+de nourriture.
+Décrochage Stand de ilir bytyqi a la place numéro 384.03 et le compte de réservation 
+weezpay 2537-002. Il sert des boissons comme: minérales, vins. Il sert des plats comme: 
+Burgers.
+Décrochage Domaine Christalain & GSN a la place numéro 744.70 et le compte de 
+réservation weezpay 2183-007. Il sert des boissons comme: minérales, vins. Il sert des plats 
+comme: Planchette neuchâteloise (tomme, saucisson et pain).
+Décrochage Domaine Saint-Sébaste & FC Saint-Blaise a la place numéro 744.68 et le compte 
+de réservation weezpay 2183-008. Il sert des boissons comme: vins. Il ne sert pas de 
+nourriture.
+Décrochage Sionwine.ch invité Swiss Wine Valais a la place numéro 744.66 et le compte de 
+réservation weezpay 2183-009. Il sert des boissons comme: vins. Il sert des plats comme: 
+Sandwich.
+Décrochage Brasserie de la Meute a la place numéro 744.64 et le compte de réservation 
+weezpay 2183-010. Il sert des boissons comme: minérales, bières, liquoreux. Il ne sert pas 
+de nourriture.
+Décrochage La Grillette & Domaine Grisoni a la place numéro 744.62 et le compte de 
+réservation weezpay 2183-011. Il sert des boissons comme: vins. Il ne sert pas de 
+nourriture.
+Décrochage Cave des Lauriers et Goût et Région a la place numéro 744.60 et le compte de 
+réservation weezpay 2183-012. Il sert des boissons comme: minérales, vins, liquoreux. Il 
+sert des plats comme: Fondue au fromage.
+Décrochage Vins Nicolet & Vouga a la place numéro 744.58 et le compte de réservation 
+weezpay 2183-013. Il sert des boissons comme: minérales, vins. Il ne sert pas de nourriture.
+Décrochage Maison de la Tourbière a la place numéro 744.50 et le compte de réservation 
+weezpay 2183-014. Il ne sert pas de boissons. Il sert des plats comme: Raclette.
+Décrochage Domaine Divernois a la place numéro 744.48 et le compte de réservation 
+weezpay 2183-015. Il sert des boissons comme: minérales, vins. Il ne sert pas de nourriture.
+Décrochage Poissonnerie Berger a la place numéro 744.56 et le compte de réservation 
+weezpay 2183-016. Il ne sert pas de boissons. Il sert des plats comme: Friture de poisson du 
+lac et frite.
+Décrochage Absinthe La Valote Martin a la place numéro 744.44 et le compte de réservation 
+weezpay 2183-017. Il sert des boissons comme: vins, liquoreux. Il ne sert pas de nourriture.
+Décrochage Boucherie du Palais Invité Regio Garantie Genève a la place numéro 744.42 et le 
+compte de réservation weezpay 2183-018. Il sert des boissons comme: minérales. Il sert des 
+plats comme: Délice Genevois Pistaché, Petit Pâté Genevois, Croissant au Jambon 
+Traditionnel, Croissant Genevois, saucisson secs au Gamaret, Saucisson sec de Porc de 
+Jussy, Filet de Porc sec de Jussy, Coppa de Porc de Jussy, Saucisse à l'Ail de Jussy, Planchette 
+Genevoise.
+Décrochage Swiss Wine Genève a la place numéro 744.40 et le compte de réservation 
+weezpay 2183-019. Il sert des boissons comme: vins. Il ne sert pas de nourriture.
+Décrochage Caves de la Ville a la place numéro 744.38 et le compte de réservation weezpay 
+2183-020. Il sert des boissons comme: vins. Il ne sert pas de nourriture.
+Décrochage Brasserie B'art a la place numéro 744.36 et le compte de réservation weezpay 
+2183-021. Il sert des boissons comme: minérales, bières. Il sert des plats comme: Burgers.
+Décrochage Stand de Kheiri a la place numéro 537.10 et le compte de réservation weezpay 
+2405-002. Il sert des boissons comme: minérales, vins, bières, liquoreux. Il sert des plats 
+comme: Burgers, Grillades, Kebab, Sandwich, Spécialités Africaines, Spécialités Orientales.
+Décrochage Stand de FC DM Surfaces a la place numéro 537.25 et le compte de réservation 
+weezpay 2076-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il sert des plats comme: Steak vigneron.
+Décrochage Stand de willy bonnaval a la place numéro 537.19 et le compte de réservation 
+weezpay 2303-006. Il sert des boissons comme: cocktails. Il sert des plats comme: Churros.
+Décrochage Stand de k hamma a la place numéro 384.14 et le compte de réservation 
+weezpay 2543-002. Il ne sert pas de boissons. Il sert des plats comme: Sandwich, Spécialité 
+Grec.
+Décrochage Stand de ncswiss a la place numéro 387.05 et le compte de réservation weezpay 
+2545-003. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il sert 
+des plats comme: Churros, nougat.
+Décrochage Stand de Franck Pellet a la place numéro 648.34 et le compte de réservation 
+weezpay 2171-002. Il ne sert pas de boissons. Il sert des plats comme: Churros, Crêpes.
+Décrochage Stand de willy bonnaval a la place numéro 657.02 et le compte de réservation 
+weezpay 2303-007. Il ne sert pas de boissons. Il sert des plats comme: Sucrerie.
+Décrochage Chick n chips a la place numéro 537.04 et le compte de réservation weezpay 
+2252-004. Il ne sert pas de boissons. Il sert des plats comme: Nuggets poulet.
+Décrochage Stand de Hoppy Truck Company a la place numéro 744.18 et le compte de 
+réservation weezpay 2304-002. Il sert des boissons comme: minérales, bières, liquoreux. Il 
+ne sert pas de nourriture.
+Décrochage LABELFRITES a la place numéro 045.24 et le compte de réservation weezpay 
+2023-002. Il sert des boissons comme: minérales. Il sert des plats comme: Steak vigneron, 
+Hot-dog, Merguez, Frites.
+Décrochage Stand de Festi'neuch a la place numéro 198.03 et le compte de réservation 
+weezpay 2054-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage Le valais chez vous a la place numéro 726.07 et le compte de réservation 
+weezpay 2539-002. Il sert des boissons comme: bières, cocktails. Il sert des plats comme: 
+Raclette.
+Décrochage Mariana Crêpes et Titi Raclette a la place numéro 045.06 et le compte de 
+réservation weezpay 2547-002. Il sert des boissons comme: minérales, vins, bières. Il sert 
+des plats comme: Churros, Crêpes, Raclette.
+Décrochage poulet secret a la place numéro 045.14 et le compte de réservation weezpay 
+2275-002. Il ne sert pas de boissons. Il sert des plats comme: Burgers, Spécialités Amérique 
+latine, poulet frite.
+Décrochage Stand Bifadoro a la place numéro 744.28 et le compte de réservation weezpay 
+2468-002. Il ne sert pas de boissons. Il sert des plats comme: Spécialités Portugaises.
+Décrochage Stand de Lopes Carlos a la place numéro 657.26 et le compte de réservation 
+weezpay 2158-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il sert des plats comme: Churros, Spécialités Portugaises.
+Décrochage BELLA PALOMO - Chilean Food & Point 0 a la place numéro 732.16 et le compte 
+de réservation weezpay 2540-002. Il sert des boissons comme: minérales, toutes les 
+boissons sans alcools (mocktails, bières, vins, mousseux..), bar à jus de fruits. Il sert des 
+plats comme: Sandwich, Spécialités Amérique latine, Hot-dog et frites.
+Décrochage HC Neuchâtel Young Sprinters a la place numéro 537.29 et le compte de 
+réservation weezpay 2461-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il sert des plats comme: Raclette, Sandwich.
+Décrochage Stand de Tamara a la place numéro 648.06 et le compte de réservation weezpay 
+2413-003. Il sert des boissons comme: minérales, liquoreux. Il sert des plats comme: 
+Churros, Crêpes.
+Décrochage Stand de Tamara a la place numéro 744.20 et le compte de réservation weezpay 
+2413-004. Il sert des boissons comme: minérales, liquoreux. Il ne sert pas de nourriture.
+Décrochage Stand de regaltandoori a la place numéro 537.08 et le compte de réservation 
+weezpay 2517-002. Il sert des boissons comme: minérales, vins, bières. Il sert des plats 
+comme: Cuisine Indien.
+Décrochage Stand de Jonathan Perret a la place numéro 627.06 et le compte de réservation 
+weezpay 2217-002. Il sert des boissons comme: minérales, vins, bières, liquoreux. Il ne sert 
+pas de nourriture.
+Décrochage Stand Vekteur a la place numéro 537.26 et le compte de réservation weezpay 
+2076-003. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il ne sert 
+pas de nourriture.
+Décrochage Stand Partenaires FDV a la place numéro 537.27 et le compte de réservation 
+weezpay 2541-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il sert des plats comme: Buffet froid composé de diverses pâtisseries italiennes.
+Décrochage Stand de eric beguelin a la place numéro 198.13 et le compte de réservation 
+weezpay 2322-002. Il sert des boissons comme: vins, bières. Il sert des plats comme: Hot 
+fondue.
+Décrochage YAKIMI a la place numéro 198.15 et le compte de réservation weezpay 2531-
+002. Il ne sert pas de boissons. Il sert des plats comme: Spécialités Asiatiques.
+Décrochage La Terra del Sud di Salento a la place numéro 384.12 et le compte de 
+réservation weezpay 2551-002. Il sert des boissons comme: minérales, vins, bières. Il ne 
+sert pas de nourriture.
+Décrochage Cow on the Road a la place numéro 384.15 et le compte de réservation weezpay 
+2528-002. Il ne sert pas de boissons. Il sert des plats comme: Burgers, Sandwich, Tartares.
+Décrochage Hans Grüezi a la place numéro 726.02 et le compte de réservation weezpay 
+2524-002. Il ne sert pas de boissons. Il sert des plats comme: Raclette, Sandwich, Rösti frite 
+sauce gruyère, steack raclette sandwich.
+Décrochage L'Oeuforie a la place numéro 744.26 et le compte de réservation weezpay 2542-
+002. Il ne sert pas de boissons. Il sert des plats comme: Burgoeufs TM.
+Décrochage BELGA a la place numéro 045.16 et le compte de réservation weezpay 2474-
+002. Il sert des boissons comme: minérales, bières. Il sert des plats comme: Spécialités 
+belges (frites, snacks, mitraillettes).
+Décrochage Stand de Asia-Food a la place numéro 744.03 et le compte de réservation 
+weezpay 2285-002. Il ne sert pas de boissons. Il sert des plats comme: Spécialités 
+Asiatiques.
+Décrochage Stand de boucherie artisanal de L’Etivaz a la place numéro 384.08 et le compte 
+de réservation weezpay 2398-002. Il ne sert pas de boissons. Il sert des plats comme: 
+Grillades, mac raclette.
+Décrochage Stand de fati yoann a la place numéro 648.21 et le compte de réservation 
+weezpay 2361-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage Stand de fati yoann a la place numéro 045.28 et le compte de réservation 
+weezpay 2361-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. 
+Il ne sert pas de nourriture.
+Décrochage Stand de Wenger Tupan Anita a la place numéro 648.05 et le compte de 
+réservation weezpay 2170-003. Il sert des boissons comme: minérales. Il sert des plats 
+comme: Burgers.
+Décrochage Stand de Geissel Pascal a la place numéro 744.54 et le compte de réservation 
+weezpay 2200-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage La Patanne a la place numéro 657.16 et le compte de réservation weezpay 
+2496-002. Il ne sert pas de boissons. Il sert des plats comme: Patates en spirales.
+Décrochage Stand de Duong Khanh Hiep a la place numéro 648.26 et le compte de 
+réservation weezpay 2125-007. Il ne sert pas de boissons. Il sert des plats comme: 
+Spécialités Asiatiques.
+Décrochage Stand de Coco Thaï Cuisine a la place numéro 537.06 et le compte de 
+réservation weezpay 2559-002. Il sert des boissons comme: minérales, bières. Il sert des 
+plats comme: Spécialités Asiatiques.
+Décrochage Nach-Bar a la place numéro 744.30 et le compte de réservation weezpay 2561-
+002. Il sert des boissons comme: minérales, vins, bières, liquoreux. Il ne sert pas de 
+nourriture.
+Décrochage Stand de Bonnaval a la place numéro 744.24 et le compte de réservation 
+weezpay 2171-004. Il ne sert pas de boissons. Il sert des plats comme: Churros.
+Décrochage L'Auberge d'Hauterive & Domaine Brunner a la place numéro 744.46 et le 
+compte de réservation weezpay 2183-022. Il sert des boissons comme: vins. Il sert des plats 
+comme: Risotto, pâté de chasse, dessert.
+Décrochage Zia Kurtos a la place numéro 615.25 et le compte de réservation weezpay 2560-
+002. Il ne sert pas de boissons. Il sert des plats comme: Confiserie, Kurtoskalacs spécialité 
+hongroise.
+Décrochage Paradis Kebab a la place numéro 657.20 et le compte de réservation weezpay 
+2246-002. Il sert des boissons comme: minérales, bières. Il sert des plats comme: Burgers, 
+Kebab, Sandwich, Tacos.
+Décrochage Stand de aboulhassanesamia a la place numéro 726.27 et le compte de 
+réservation weezpay 2569-002. Il sert des boissons comme: minérales. Il sert des plats 
+comme: Spécialité marocaine.
+Décrochage Stand Mendes a la place numéro 615.06 et le compte de réservation weezpay 
+2571-002. Il sert des boissons comme: minérales, vins, bières, liquoreux. Il sert des plats 
+comme: Raclette.
+Décrochage Stand Québécois a la place numéro 615.04 et le compte de réservation weezpay 
+2520-002. Il sert des boissons comme: minérales, bières, liquoreux, cocktails. Il sert des 
+plats comme: Spécialités québécoises.
+Décrochage Saveurs Du Tibet a la place numéro 726.15 et le compte de réservation weezpay 
+2550-002. Il sert des boissons comme: minérales. Il sert des plats comme: Brioche 
+Tibétaine.
+Décrochage Stand de chezmendes a la place numéro 615.08 et le compte de réservation 
+weezpay 2571-002. Il sert des boissons comme: minérales, bières, liquoreux. Il sert des 
+plats comme: Poissons, Frites.
+Décrochage Stand de lescrepesgourmandes a la place numéro 648.09 et le compte de 
+réservation weezpay 2570-002. Il ne sert pas de boissons. Il sert des plats comme: Crêpes, 
+Sandwich, gaufres.
+Décrochage Stand de marketing a la place numéro 744.10 et le compte de réservation 
+weezpay 2573-002. Il sert des boissons comme: minérales, vins, bières, liquoreux. Il sert des 
+plats comme: Spécialités antillaises petits encas et desserts.
+Décrochage Stand de paul richeux a la place numéro 276.06 et le compte de réservation 
+weezpay 2575-002. Il sert des boissons comme: vins. Il sert des plats comme: Huitres/Vin 
+Blanc, Fritures a base de Fromage.
+Décrochage Portes de Novembre by Maison Gilliard a la place numéro 615.29 et le compte 
+de réservation weezpay 2568-002. Il sert des boissons comme: minérales, vins. Il ne sert 
+pas de nourriture.
+Décrochage Stand de hectorfmr a la place numéro 744.14 et le compte de réservation 
+weezpay 2580-002. Il sert des boissons comme: minérales, bières, liquoreux, cocktails. Il 
+sert des plats comme: Spécialités Amérique latine.
+Décrochage Panares Gourmet a la place numéro 657.10 et le compte de réservation 
+weezpay 2581-002. Il ne sert pas de boissons. Il sert des plats comme: Sandwich, Spécialités 
+Amérique latine, Burritos.
+Décrochage Stand de Cabanons a la place numéro 627.17 et le compte de réservation 
+weezpay 2410-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage La cabane à cocktails a la place numéro 537.18 et le compte de réservation 
+weezpay 2588-002. Il sert des boissons comme: minérales, vins, bières, cocktails. Il ne sert 
+pas de nourriture.
+Décrochage Tropical Pirate a la place numéro 726.05 et le compte de réservation weezpay 
+2589-002. Il sert des boissons comme: minérales, bières, liquoreux, cocktails. Il ne sert pas 
+de nourriture.
+Décrochage Stand de yumbab europe a la place numéro 726.21 et le compte de réservation 
+weezpay 2591-002. Il sert des boissons comme: minérales, bières, liquoreux, cocktails. Il ne 
+sert pas de nourriture.
+Décrochage Stand de Tamara a la place numéro 792.04 et le compte de réservation weezpay 
+2413-005. Il ne sert pas de boissons. Il sert des plats comme: Crêpes.
+Décrochage Pastef Neuchâtel a la place numéro 726.04 et le compte de réservation weezpay 
+2593-002. Il sert des boissons comme: minérales, vins, bières, liquoreux, cocktails. Il sert 
+des plats comme: Spécialités Africaines.
+Décrochage Krishna Take-Away Indien Sàrl a la place numéro 276.10 et le compte de 
+réservation weezpay 2587-002. Il sert des boissons comme: minérales, vins, bières, 
+liquoreux, cocktails. Il sert des plats comme: Spécialités Asiatiques, Specialités sri-lankaise.
+Décrochage Stand de Cabanons a la place numéro 627.21 et le compte de réservation 
+weezpay 2410-003. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de Yonten Tratsang a la place numéro 657.04 et le compte de réservation 
+weezpay 2250-003. Il ne sert pas de boissons. Il sert des plats comme: Tibétains.
+Décrochage EFFEMME DISTRIBUTION SÀRL (o-caffe.ch) a la place numéro 615.19 et le 
+compte de réservation weezpay 2595-002. Il sert des boissons comme: minérales, 
+liquoreux. Il ne sert pas de nourriture.
+Décrochage CASHLESS VOIRIE a la place numéro 000.01 et le compte de réservation 
+weezpay 2077-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage CASHLESS LOUNGE TERROIR a la place numéro 000.02 et le compte de 
+réservation weezpay 2077-003. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de tapis marbre a la place numéro 537.24 et le compte de réservation 
+weezpay 2599-003. Il ne sert pas de boissons. Il sert des plats comme: Churros, Crêpes.
+Décrochage Stand de naveen begni a la place numéro 000.03 et le compte de réservation 
+weezpay 2601-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage CHRISTIAN JEAN a la place numéro 000.04 et le compte de réservation 
+weezpay 2077-004. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de contact a la place numéro 219.01 et le compte de réservation weezpay 
+2495-002. Il ne sert pas de boissons. Il ne sert pas de nourriture.
+Décrochage Stand de gulselgormez a la place numéro 648.30 et le compte de réservation 
+weezpay 2554-002. Il sert des boissons comme: minérales, bières. Il sert des plats comme: 
+Kebab, hot dog frites.
+Décrochage Stand de Le Petit Train Rouge a la place numéro 615.10 et le compte de 
+réservation weezpay 2603-002. Il ne sert pas de boissons. Il sert des plats comme: Burgers, 
+Pizza.
