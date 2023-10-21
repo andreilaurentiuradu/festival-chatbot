@@ -6,6 +6,10 @@ function Coordinates() {
   const [x, setX] = useState("");
   const [y, setY] = useState("");
   const [question, setQuestion] = useState("");
+  const [hasBeenSearched, setHasBeenSearched] = useState(false);
+  const [mapsLink, setMapsLink] = useState("");
+  const [distance, setDistance] = useState("");
+  const [instructions, setInstructions] = useState("");
 
   const handleClick = async () => {
     try {
@@ -18,7 +22,11 @@ function Coordinates() {
 
       // Update the UI or perform other actions based on the response
       // ...
-      console.log(response);
+      // console.log(response.data["maps_link"]);
+      setMapsLink(response.data["maps_link"]);
+      setDistance(response.data["distance"]);
+      setInstructions(response.data["instructions"]);
+      setHasBeenSearched(true);
 
       // Show a success message using Swal or other notification library
       Swal.fire({
@@ -42,7 +50,7 @@ function Coordinates() {
   };
 
   return (
-    <div className="h-96 flex p-2 lg:flex-row flex-col justify-center items-center">
+    <div className=" flex p-2 lg:flex-row flex-col justify-center items-center">
       {/* Left Column for X and Y Coordinates */}
       <div className="  p-2 border border-gray-300 flex flex-col justify-center items-center rounded-lg">
         <form>
@@ -93,10 +101,19 @@ function Coordinates() {
             onChange={(e) => setQuestion(e.target.value)}
           />
         </div>
-        <button className="bg-blue-500 text-white p-2 rounded-lg w-1/2" onClick={handleClick}>
+        <button className="bg-green-500 text-white p-2 rounded-lg w-1/2" onClick={handleClick}>
           Submit
         </button>
+     
+        {hasBeenSearched && (
+          <div className="p-2">
+          <a href={mapsLink}>Map Link</a> 
+          <p>{distance}</p>
+          <p>{instructions}</p>
+        
+        </div>)}
       </div>
+      
     </div>
   );
 }
