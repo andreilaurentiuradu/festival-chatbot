@@ -24,9 +24,10 @@ function Chatbox() {
     try {
       // Send the message to the server and await the response
       const response = await chatRequest({ message: input });
+      console.log(response);
   
       // Update the UI with the user's message and the server's response
-      setMessages([...messages, newMessage, { text: response, isUser: false }]);
+      setMessages([...messages, newMessage, { text: response.data, isUser: false }]);
       setInput('');
   
       // Show a success message using Swal or other notification library

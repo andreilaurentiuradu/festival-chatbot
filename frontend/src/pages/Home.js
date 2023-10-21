@@ -10,7 +10,7 @@ function Home() {
 
 
   return (
-    <div className="lg:w-1/2 md:w-1/2 w-3/4 p-4 border rounded-lg shadow-lg ">
+    <div className="lg:w-1/2 md:w-1/2 w-3/4 h-3/4 lg:h-1/2  p-4 border rounded-lg shadow-lg ">
       <div className="flex justify-center items-center mb-3">
         <button
           className={`mb-2 bg-gray-200 border text-black p-2 rounded-l-3xl ${activeButton === 'chatbot' ? 'active-button' : ''}`}
