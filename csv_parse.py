@@ -1,7 +1,7 @@
 import csv
 
 nume_fisier_csv_input = 'data.csv'
-nume_fisier_csv_output = 'output1.csv'
+nume_fisier_csv_output = 'output2.csv'
 
 with open(nume_fisier_csv_input, 'r') as fisier_csv_input, open(nume_fisier_csv_output, 'w', newline='') as fisier_csv_output:
     cititor_csv = csv.reader(fisier_csv_input)
@@ -21,4 +21,5 @@ with open(nume_fisier_csv_input, 'r') as fisier_csv_input, open(nume_fisier_csv_
                 if i != 0:
                     index += 1
                     date.append(item)
+        print(date)
         scriitor_csv.writerow(date)
