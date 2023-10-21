@@ -5,7 +5,7 @@ import openai
 openai.api_key = "API_KEY"
 
 response = openai.Image.create(
-  prompt="royale toilet",
+  prompt="royal toilet",
   n=1,
   size="1024x1024"
 )
