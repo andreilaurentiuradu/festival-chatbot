@@ -21,4 +21,5 @@ with open(input_file, 'r') as fisier_csv_input:
             information = information + f' Il sert des plats comme: {linie_noua}.'
         p = doc.add_paragraph(information)
 
+
 doc.save("answer.docx")
