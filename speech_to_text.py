@@ -24,7 +24,7 @@ sd.wait()
 write("recording0.wav", freq, recording)
 
 
-openai.api_key = "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"
+openai.api_key = "API_KEY"
 audio_file = open("recording0.wav", "rb")
 transcript = openai.Audio.transcribe("whisper-1", audio_file)
 print(transcript)

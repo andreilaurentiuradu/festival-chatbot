@@ -13,7 +13,7 @@ def obtine_traseu(api_key, start_locatie, destinatie_locatie, mod_transport):
     return directii
 
 # Exemplu de utilizare
-API_KEY = 'AIzaSyAD1KCCoKf_NpcFpJ1Q0Y5AINHeMRgExpo'
+API_KEY = 'API_KEY'
 start_locatie = '46.99116252254659,6.933674708596586'
 destinatie_locatie = 'Pub 18'
 mod_transport = 'driving'  # sau 'walking', 'transit', etc.
