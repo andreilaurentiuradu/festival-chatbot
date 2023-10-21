@@ -1,7 +1,7 @@
 import json
 
 # Opening JSON file
-f = open('data.json')
+f = open('other.geojson')
 
 # returns JSON object as
 # a dictionary
