@@ -7,6 +7,7 @@ f = open('data.json')
 # a dictionary
 data = json.load(f)
 
+
 # Iterating through the json
 # list
 for i in data['emp_details']:
