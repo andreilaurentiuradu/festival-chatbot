@@ -2,7 +2,7 @@
 import openai
 
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 response = openai.Image.create(
   prompt="royale toilet",
