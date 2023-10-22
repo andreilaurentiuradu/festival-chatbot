@@ -20,7 +20,7 @@ app = Flask(__name__)
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['SECRET_KEY'] = 'sunt-smecher'
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 csv_file = "output.csv"
 place_number = None
@@ -173,7 +173,7 @@ def answer_chat():
 @cross_origin()
 def send_directions():
     given_input = request.get_json()
-    API_KEY = 'AIzaSyAD1KCCoKf_NpcFpJ1Q0Y5AINHeMRgExpo'
+    API_KEY = ''
     start_locatie = given_input['x'] + ',' + given_input['y']
     search_stall_name = given_input['location']
     print(search_stall_name)
