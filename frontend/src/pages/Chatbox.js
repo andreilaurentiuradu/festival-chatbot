@@ -42,12 +42,7 @@ function Chatbox() {
       console.error(e);
 
       // Show an error message using Swal or other notification library
-      Swal.fire({
-        title: 'Message could not be sent',
-        icon: 'error',
-        timer: 5000,
-        showConfirmButton: false,
-      });
+      
     }
   };
 
@@ -61,7 +56,7 @@ function Chatbox() {
     <div>
       <div
         ref={messageContainerRef}
-        className="h-96 border border-black-500 p-2 rounded-lg overflow-y-auto bg-white"
+        className="h-96 border border-black-500 p-2 rounded-lg overflow-y-auto white_new"
       >
         {messages.map((message, index) => (
           <div
@@ -95,7 +90,7 @@ function Chatbox() {
       <div className="mt-2 flex">
         <input
           type="text"
-          className="flex-1 p-2 rounded-l-lg border border-gray-300 bg-white"
+          className="flex-1 p-2 rounded-l-lg border border-gray-300 white_new"
           placeholder="Type a message..."
           value={input}
           onChange={handleInputChange}

@@ -11,7 +11,7 @@ function Home() {
 
 
   return (
-    <div className="lg:w-1/2 md:w-1/2 w-3/4 p-4 border rounded-lg shadow-lg chat_color ">
+    <div className="lg:w-1/3 md:w-1/2 w-3/4 p-4  lg:ml-5  border rounded-lg shadow-lg chat_color mb-24 lg:mb-1 ">
       <div className="flex justify-end items-center mb-3">
       <button
           className={`mb-2 bg-gray-200 border border-vlack-100 text-black p-2 rounded-l-3xl ${activeButton === 'inputCoordinates' ? '' : 'active-button'}`}

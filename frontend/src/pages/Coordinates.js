@@ -60,19 +60,19 @@ function Coordinates() {
   };
 
   return (
-    <div className="lg:h-96 md:h-3/4 sm:h-3/4 h-3/4  flex p-2 lg:flex-row flex-col bg-white rounded-xl justify-center items-center">
+    <div className="lg:h-5/6 md:h-3/4 sm:h-3/4 h-3/4  flex p-2  flex-col white_new rounded-xl justify-center items-center ">
       {/* Left Column for X and Y Coordinates */}
-      <div className="    p-2 border border-gray-300 flex flex-col justify-center items-center rounded-lg">
+      <div className="    p-2 border border-gray-300 flex flex-col justify-center items-center rounded-lg mt-10">
         <form>
           <div className="mb-4 p-2">
-            <label htmlFor="x" className="block text-gray-700 text-sm font-bold mb-2">
+            <label htmlFor="x" className="block text-gray-700  text-sm font-bold mb-2">
               X Coordinate:
             </label>
             <input
               type="text"
               id="x"
               name="x"
-              className="p-2 border rounded-lg"
+              className="p-2 border white_new rounded-lg"
               placeholder="Enter X coordinate"
               value={x}
               onChange={(e) => setX(e.target.value)}
@@ -87,7 +87,7 @@ function Coordinates() {
               type="text"
               id="y"
               name="y"
-              className="p-2 border rounded-lg"
+              className="p-2 border white_new  rounded-lg"
               placeholder="Enter Y coordinate"
               value={y}
               onChange={(e) => setY(e.target.value)}
@@ -98,7 +98,7 @@ function Coordinates() {
       
       {/* Right Column for Question and Submit */}
 
-      {!hasBeenSearched ? (<div className="lg:w-1/2  p-2 flex flex-col justify-center items-center">
+      {!hasBeenSearched ? (<div className="lg:w-5/6  p-2 flex flex-col justify-center items-center mt-5">
         <div className="mb-4 text-center">
           <label htmlFor="question" className="block text-gray-700 text-md font-bold mb-2 justify-center">
             Where do you want to go?
@@ -107,7 +107,7 @@ function Coordinates() {
             type="text"
             id="question"
             name="question"
-            className="p-2 border rounded-lg w-full"
+            className="p-2 border white_new rounded-lg w-full"
             placeholder="Enter your destination"
             value={question}
             onChange={(e) => setQuestion(e.target.value)}
@@ -118,7 +118,7 @@ function Coordinates() {
         </button>
      
         
-      </div>) : (<div className="p-4 my-2 lg:w-1/2  lg:p-2 lg:flex lg:flex-col items-center justify-center">
+      </div>) : (<div className="p-4 my-2 lg:w-5/6  lg:p-2 lg:flex lg:flex-col items-center justify-center">
             
           
             <Card3Presentation value={mapsLink} distance={distance} instructions={instructions} duration={duration}/>
