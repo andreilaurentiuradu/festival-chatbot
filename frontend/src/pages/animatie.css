@@ -1,0 +1,73 @@
+@keyframes flicker {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.3;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  .flicker-animation {
+    animation: flicker 1s infinite;
+  }
+
+  .bg_color{
+    background-color: #2a3439;
+  }
+
+  .chat_color {
+    background-color: #bfc0c0  ;
+    
+  }
+  .message_color {
+    background-color:#4f5d75;
+    z-index: 2;
+  
+  }
+  
+  .response_color {
+    background-color: rgb(209, 209, 209);
+    
+    z-index: 3;
+  }
+
+.user-avatar {
+    width: 30px; /* Adjust the width and height as needed */
+    height: 30px;
+    background-color: #0074d9; /* Background color for the user's avatar */
+    color: white; /* Text color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20%; /* Create a circular shape */
+    font-weight: bold;
+    padding: 20px; 
+    
+    ; /* Adjust the margin between avatar and message text */
+  }
+  
+  /* Styles for the chat's avatar (C) */
+.chat-avatar {
+    width: 30px; /* Adjust the width and height as needed */
+    height: 30px;
+    background-color: #ff5722; /* Background color for the chat's avatar */
+    color: white; /* Text color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     border-radius: 20%;
+     padding: 20px; 
+    font-weight: bold;
+    /* Adjust the margin between avatar and message text */
+  }
+
+  /* Add these styles to your CSS file */
+.active-button {
+  background-color: #2a3439; /* Change to the desired color when active */
+  color: #fff; /* Change to the desired text color when active */
+  cursor: pointer;
+}
+

@@ -1,6 +1,10 @@
-import React, { useState } from "react";
+import React, { useState, useContext } from "react";
 import Swal from 'sweetalert2';
 import { coordinatesRequest } from "../common/services/coordinates";
+import Card3Presentation from "./Card";
+import "./animatie.css"
+
+const googleMapsApiKey = 'AIzaSyAD1KCCoKf_NpcFpJ1Q0Y5AINHeMRgExpo';
 
 function Coordinates() {
   const [x, setX] = useState("");
@@ -10,6 +14,8 @@ function Coordinates() {
   const [mapsLink, setMapsLink] = useState("");
   const [distance, setDistance] = useState("");
   const [instructions, setInstructions] = useState("");
+  const [destination, setDestination] = useState("");
+  const [duration, setDuration] = useState("");
 
   const handleClick = async () => {
     try {
@@ -26,7 +32,11 @@ function Coordinates() {
       setMapsLink(response.data["maps_link"]);
       setDistance(response.data["distance"]);
       setInstructions(response.data["instructions"]);
+      setDestination(response.data["destination"]);
+      setDuration(response.data["duration"]);
       setHasBeenSearched(true);
+     
+      console.log(response.data["duration"]);
 
       // Show a success message using Swal or other notification library
       Swal.fire({
@@ -50,9 +60,9 @@ function Coordinates() {
   };
 
   return (
-    <div className=" flex p-2 lg:flex-row flex-col justify-center items-center">
+    <div className="lg:h-96 md:h-3/4 sm:h-3/4 h-3/4  flex p-2 lg:flex-row flex-col bg-white rounded-xl justify-center items-center">
       {/* Left Column for X and Y Coordinates */}
-      <div className="  p-2 border border-gray-300 flex flex-col justify-center items-center rounded-lg">
+      <div className="    p-2 border border-gray-300 flex flex-col justify-center items-center rounded-lg">
         <form>
           <div className="mb-4 p-2">
             <label htmlFor="x" className="block text-gray-700 text-sm font-bold mb-2">
@@ -68,6 +78,7 @@ function Coordinates() {
               onChange={(e) => setX(e.target.value)}
             />
           </div>
+          
           <div className="mb-4">
             <label htmlFor="y" className="block text-gray-700 text-sm font-bold mb-2">
               Y Coordinate:
@@ -84,9 +95,10 @@ function Coordinates() {
           </div>
         </form>
       </div>
-
+      
       {/* Right Column for Question and Submit */}
-      <div className="lg:w-1/2  p-2 flex flex-col justify-center items-center">
+
+      {!hasBeenSearched ? (<div className="lg:w-1/2  p-2 flex flex-col justify-center items-center">
         <div className="mb-4 text-center">
           <label htmlFor="question" className="block text-gray-700 text-md font-bold mb-2 justify-center">
             Where do you want to go?
@@ -101,18 +113,20 @@ function Coordinates() {
             onChange={(e) => setQuestion(e.target.value)}
           />
         </div>
-        <button className="bg-green-500 text-white p-2 rounded-lg w-1/2" onClick={handleClick}>
+        <button className="bg_color text-white p-2 rounded-lg w-1/2" onClick={handleClick}>
           Submit
         </button>
      
-        {hasBeenSearched && (
-          <div className="p-2">
-          <a href={mapsLink}>Map Link</a> 
-          <p>{distance}</p>
-          <p>{instructions}</p>
+        
+      </div>) : (<div className="p-4 my-2 lg:w-1/2  lg:p-2 lg:flex lg:flex-col items-center justify-center">
+            
+          
+            <Card3Presentation value={mapsLink} distance={distance} instructions={instructions} duration={duration}/>
+
+          
         
         </div>)}
-      </div>
+      
       
     </div>
   );
