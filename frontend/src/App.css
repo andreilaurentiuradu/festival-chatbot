@@ -14,6 +14,52 @@ body {
   .color_bg{
     
   
-    background-color: coral;
+    background-color: #07252d;
   }
   
+h2
+{
+ 
+  
+  letter-spacing: 15px;
+  color: #0e3742;
+  text-transform: uppercase;
+  text-align: center;
+  -webkit-box-reflect: below 1px linear-gradient(transparent, #0008);
+  line-height: 0.7em;
+  outline: none;
+  animation: animate 5s linear infinite;
+}
+
+
+h1
+{
+ 
+  
+  letter-spacing: 10px;
+  color: #fff;
+  opacity: 0.8;
+  text-transform: uppercase;
+  text-align: center;
+  /* -webkit-box-reflect: below 1px linear-gradient(transparent, #0008); */
+  line-height: 0.7em;
+  outline: none;
+
+}
+
+@keyframes animate {
+  0% {
+  
+    color: #0e3742;
+    box-shadow: none;
+  }
+  100% {
+  
+    color: #fff;
+    text-shadow: 0 0 10px #03bcf4,
+                0 0 20px green,
+                0 0 40px #03bcf4,
+                0 0 80px #03bcf4,
+                0 0 160px green,
+  }
+}

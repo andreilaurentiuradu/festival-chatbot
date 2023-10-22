@@ -1,8 +1,9 @@
 import React from "react";
+import "./animatie.css"
 
 function Card3({ ...props}) {
     return (
-      <div className={`rounded-lg p-6 shadow-sm justify-center items-center `}>
+      <div className={`rounded-lg p-6 shadow-sm justify-center items-center white_new `}>
         <div className=" rounded-lg justify-center items-center flex">
             
         <a href={props.value}>
@@ -18,7 +19,7 @@ function Card3({ ...props}) {
         <h3 className="pt-5 pl-3 text-[14px] font-normal text-gray-600 block">
           Distance: {props.distance} Duration: {props.duration} 
         </h3>
-        <p className="font-normal text-base text-justify px-3 text-gray-500 cursor-pointer text-lg duration-300 transition hover:text-[#FA5252] mt-2">
+        <p className="font-normal text-sm sm:text-base  px-3 text-gray-500 cursor-pointer text-lg duration-300 transition hover:text-[#FA5252] mt-2">
           {props.instructions}
         </p>
       </div>

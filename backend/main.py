@@ -36,7 +36,8 @@ chat_history = []
 def distanta_euclidiana(coord1, coord2):
     x1, y1 = coord1
     x2, y2 = coord2
-    return math.sqrt((x2 - x1)*2 + (y2 - y1)*2)
+    print(x1, y1, x2, y2)
+    return math.sqrt((float(x2) - float(x1))**2 + (float(y2) - float(y1))**2)
 
 
 def cea_mai_apropiata_locatie(coord_input, vector):
@@ -49,7 +50,7 @@ def cea_mai_apropiata_locatie(coord_input, vector):
             distanta_minima = distanta
             cel_mai_apropiat = locatie
 
-    return str(cel_mai_apropiat(1)) + ',' + str(cel_mai_apropiat(2))
+    return str(cel_mai_apropiat[0]) + ',' + str(cel_mai_apropiat[1])
 
 
 # Vectorii de locații pentru fiecare culoare
@@ -129,13 +130,12 @@ def locatie_in_cod(search_stall_name):
 def obtine_traseu(api_key, start_locatie, destinatie_locatie, mod_transport):
     gmaps = googlemaps.Client(key=api_key)
 
-    aj = start_locatie.split(',')
-    start_coord = {'lat': float(aj[0]), 'lng': float(aj[1])}
+    start_coord = gmaps.geocode(start_locatie)[0]['geometry']['location']
+    
     print(start_coord)
-    aj2 = destinatie_locatie.split(',')
-    destinatie_coord = {'lat': float(aj2[0]), 'lng': float(aj2[1])}
+    destinatie_coord = gmaps.geocode(destinatie_locatie)[0]['geometry']['location']
     print(destinatie_coord)
-    return gmaps.directions(start_coord, destinatie_coord, mode=mod_transport)
+    return gmaps.directions(destinatie_coord, start_coord, mode=mod_transport)
 
 
 @app.route('/chat', methods=["POST"])

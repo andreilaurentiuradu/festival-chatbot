@@ -19,7 +19,7 @@
   }
 
   .chat_color {
-    background-color: #bfc0c0  ;
+    background-color: #424c55  ;
     
   }
   .message_color {
@@ -29,9 +29,12 @@
   }
   
   .response_color {
-    background-color: rgb(209, 209, 209);
+    background-color: #f4fffd;
     
     z-index: 3;
+  }
+  .white_new{
+    background-color: #f2efea;
   }
 
 .user-avatar {
