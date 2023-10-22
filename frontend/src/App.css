@@ -1,0 +1,19 @@
+/* App.css */
+
+body {
+    /* background-image: "./common/proba.jpeg"; /* Schimbă calea către imaginea ta de fundal */
+    /* background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  */
+  
+    margin: 0; /* Elimină marginile pentru a umple întreaga pagină */
+    padding: 0; /* Elimină padding-ul */
+    height: 100vh; /* Asigură-ți că întreaga pagină este acoperită de fundal */
+  }
+
+  .color_bg{
+    
+  
+    background-color: coral;
+  }
+  
