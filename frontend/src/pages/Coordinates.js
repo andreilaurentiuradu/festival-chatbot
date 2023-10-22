@@ -39,12 +39,7 @@ function Coordinates() {
       console.log(response.data["duration"]);
 
       // Show a success message using Swal or other notification library
-      Swal.fire({
-        title: 'Message sent successfully',
-        icon: 'success',
-        timer: 2500,
-        showConfirmButton: false,
-      });
+      
     } catch (e) {
       // Handle any errors that occur during the server request
       console.error(e);
